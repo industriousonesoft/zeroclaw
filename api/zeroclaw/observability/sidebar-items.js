@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ObserverEvent"],"fn":["clear_broadcast_hook","create_observer","set_broadcast_hook"],"mod":["dora","log","multi","noop","prometheus","runtime_trace","traits","verbose"],"struct":["LogObserver","MultiObserver","NoopObserver","PrometheusObserver","VerboseObserver"],"trait":["Observer"]};
